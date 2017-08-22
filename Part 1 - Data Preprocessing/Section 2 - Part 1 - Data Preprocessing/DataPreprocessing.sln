@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonDataPreprocessing", "Python\PythonDataPreprocessing.pyproj", "{5B8A44EF-26BD-4E21-9C7C-AD865E7136F9}"
+EndProject
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "RDataPreprocessing", "R\RDataPreprocessing.rxproj", "{70E04F10-BF59-4B9E-918D-68294E1057AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B8A44EF-26BD-4E21-9C7C-AD865E7136F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8A44EF-26BD-4E21-9C7C-AD865E7136F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {455555D2-A714-4CE3-8364-9D9EFF011E64}
+	EndGlobalSection
+EndGlobal
