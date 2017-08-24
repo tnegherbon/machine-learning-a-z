@@ -6,7 +6,8 @@
     <ProjectGuid>{5b8a44ef-26bd-4e21-9c7c-ad865e7136f9}</ProjectGuid>
     <ProjectHome />
     <StartupFile>data_preprocessing.py</StartupFile>
-    <SearchPath />
+    <SearchPath>
+    </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
@@ -24,9 +25,6 @@
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|ContinuumAnalytics|Anaconda36-64" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Data.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
 </Project>
